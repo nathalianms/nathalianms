@@ -1,0 +1,40 @@
+class Boas_Vindas:
+    print('Olá, seja bem vinda!')
+    nome= input('Qual o seu nome?\n')
+    print('Obrigada', (nome))
+
+    print('Você sabia que um quilo de gordura equivale a sete mil calorias?'
+      '\nSabendo disso, faça as contas de quantas calorias '
+      '\nexistem em um número de quilos que você tem curiosidade:')
+
+
+class Calculadora:
+    n1 = input('Quantos quilos você quer converter em calorias: \n')
+    n2 = (7000)
+    n1 = int(n1)
+    n2 = int(n2)
+    x= (n1 * n2)
+    print('A quantidade em calorias é de', x)
+
+#n1 é a quantidade de quilos que a pessoa quer saber
+#n2 é a quantidade de calorias em um quilo, ou seja, 7000
+#x é a quantidade de quilos multplicando a quantidade de calorias
+
+    print()
+    print()
+
+    print('Agora veremos quanto tempo levaria para criar esse déficit de calorias se o'
+    '\nconsumo de ingestão considerasse a diminuição de 1000 calorias diárias? ')
+    print()
+    print()
+    print('O déficit de calorias deve ser de', (x))
+    n3= ((x)/1000)
+    n3= int(n3)
+    print('A quantidade em calorias é de', n3)
+    print('Leva', n3, 'dias para criar esse déficit')
+#n3 é o valor de x divido por 1000, que é o número de déficit que será criado por dia
+print()
+print()
+print('Lembre-se que a ingestão mmínima diária de calorias é 1500kcal por adulto, qualquer'
+'parâmetro abaixo desse valor, pode causar prejuízos à sua saúde')
+print('Obrigada por utilizar este programa, até mais')
