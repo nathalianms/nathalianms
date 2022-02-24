@@ -1,14 +1,16 @@
 ## 👩‍💻 <b> Projetos que me dedico atualmente: </b>
+
+
+## 👩‍🎓 <b> Estudo:</b>
 <br>
 
-### 👩‍🎓 <b> Estudo:</b>
+### 📖 Fundamentos de cibersegurança - Cisco
+
+### 📖 Defesa de Rede - Cisco
 <br>
-📖 Fundamentos de cibersegurança - Cisco
 
-📖 Defesa de Rede - Cisco
-
-### 🏃‍♀️ <b> E me desafio a aprender um conteúdo completamente novo: </b>
-📩 Participando do Bootcamp Banco Carrefour Woman Developer.
+## 🏃‍♀️ <b> E me desafio a aprender um conteúdo completamente novo: </b>
+### 📩 Participando do Bootcamp Banco Carrefour Woman Developer.
 <br>
 <br>
 
